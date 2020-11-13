@@ -1,3 +1,9 @@
+# MSBuild support
+
+This fork contains improved MSBuild support compared to https://github.com/microsoft/cppwinrt
+
+-------------------------
+
 [![Build status](https://dev.azure.com/microsoft/Dart/_apis/build/status/cppwinrt%20internal%20build)](https://dev.azure.com/microsoft/Dart/_build/latest?definitionId=31784)
 
 # The C++/WinRT language projection
